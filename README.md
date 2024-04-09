@@ -60,7 +60,7 @@ coming soon git 실습을 위한 레포입니다.<br>
   <tr>
     <td align="center">
       <a href="https://github.com/Ogu1208" target="_blank">
-       김민아
+       황다경
       </a>
     </td>
      <td align="center">
