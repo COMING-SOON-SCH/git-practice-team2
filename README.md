@@ -6,7 +6,6 @@ coming soon git 실습을 위한 레포입니다.<br>
 1. 레포지토리를 자신의 계정으로 fork 합니다.
 2. fork 한 repository를 자신의 환경으로 clone 합니다.
 3. 본인의 이름으로 된 새로운 브랜치를 생성합니다.
-
 4. 파일을 수정하거나 기능을 추가합니다.
 5. 수정본 코드를 포함한 브랜치를 자신의 원격 저장소로 push합니다.
 6. github에 접속하여 fork한 저장소를 확인해보면 compare & pull request 라는 버튼이 활성화 되어 있을 것입니다. 이 버튼을 눌러 pull request를 생성합니다.
