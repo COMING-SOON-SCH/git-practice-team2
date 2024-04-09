@@ -31,8 +31,8 @@ coming soon git 실습을 위한 레포입니다.<br>
 </tr>
   <tr>
     <td align="center" width="120px">
-     <a href="https://github.com/Monicx" target="_blank">
-        <img src="https://github.com/Monicx.png" alt="황다경" />
+     <a href="https://github.com/Monixc" target="_blank">
+        <img src="https://github.com/Monixc.png" alt="황다경" />
       </a>
     </td>
      <td align="center" width="120px">
