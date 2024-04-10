@@ -32,7 +32,7 @@ coming soon git 실습을 위한 레포입니다.<br>
   <tr>
     <td align="center" width="120px">
      <a href="https://github.com/Monixc" target="_blank">
-        <img src="https://github.com/Monixc.png" alt="황다경" />
+        <img src="https://github.com/Monixc.png" alt="monicx" />
       </a>
     </td>
      <td align="center" width="120px">
