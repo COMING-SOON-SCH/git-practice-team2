@@ -46,8 +46,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
     </td>
     <td align="center" width="120px">
-      <a href="https://github.com" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원3" />
+      <a href="https://github.com/chaewonmoonn" target="_blank">
+        <img src="https://github.com/chaewonmoonn.png" alt="문채원" />
       </a>
     </td>
      <td align="center" width="120px">
@@ -73,8 +73,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       이승호
       </a>
        <td align="center">
-      <a href="https://github.com" target="_blank">
-        🦕
+      <a href="https://github.com/chaewonmoonn" target="_blank">
+        문채원
       </a>
     </td>
      <td align="center">
